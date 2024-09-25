@@ -1,0 +1,39 @@
+.back{
+    width: 80%;
+    height: 500px;
+    margin-left: 125px;
+    border: 3px solid orange;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+.face{
+    width: 400px;
+    height: 400px;
+    border-radius: 300px;
+    margin-left: 35%;
+    margin-top: -200px;
+    border: 3px solid black;
+}
+.heading1{
+    text-align: center;
+}
+.heading2{
+    text-align: center;
+    color: orange;
+    padding-top: 5px;
+}
+.limit{
+    width: 350px;
+    margin-left: 37%;
+}
+.heading3{
+    text-align: center;
+    padding-top: 5px;
+    line-height: 15px;
+}
+.heading4{
+    border: 2px solid black;
+    width: 350px;
+    margin-top: 20px;
+}
+
